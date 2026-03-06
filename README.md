@@ -15,23 +15,17 @@
 </p>
 
 <!-- TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+SUMER+MANER+%F0%9F%91%BE;Full-Stack+Developer;+%26+Machine Learning Enthsiastic;Always+learning%2C+always+building."
-       alt="Typing SVG"/>
-       <!-- ↑ CHANGE: Edit the lines= parameter — each + is a space, each ; starts a new line -->
-</p>
+
 
 ---
 
 ## `> whoami`
 
-```bash
-$ cat about.txt
-```
+
 
 🎓 **B.Tech CSE** @ Kolhapur Institute of Technology, Kokhapur (2023-2027)  
 🌍 Based in **Kolhapur, Maharashtra, India**        
-🔭 Currently building **[Your Project Name](https://github.com/yourhandle/repo)**  
+🔭 Currently building **[raktSetu]([https://github.com/yourhandle/repo](https://github.com/SumerManer-17/raktSetu.git))**  
 🌱 Currently learning **SpringBoot and Microservices**      
 💬 Ask me about **Web Dev, Machine Learning** 
 
@@ -73,23 +67,7 @@ $ cat about.txt
 
 ---
 
-## `> stats --verbose`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SumerManer-17&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=030a03&title_color=00ff41&icon_color=00ff41&text_color=b0ffb0&ring_color=00ff41"
-       height="160" alt="GitHub Stats"/>
-  
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumerManer-17&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=030a03&title_color=00ff41&text_color=b0ffb0"
-       height="160" alt="Top Langs"/>
-  
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SumerManer-17&theme=dark&hide_border=true&background=030a03&ring=00ff41&fire=00cc33&currStreakLabel=00ff41&sideLabels=b0ffb0&dates=3a6b3a"
-       alt="GitHub Streak" width="55%"/>
-  <!-- ↑ CHANGE: Replace YOURUSERNAME -->
-</p>
 
 ---
 
