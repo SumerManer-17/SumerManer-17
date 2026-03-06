@@ -8,7 +8,7 @@
 
 <!-- HEADER BANNER — you can generate one at capsule-render.vercel.app -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=200&section=header&text=SUMER%20MANER&fontSize=60&fontColor=000000&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20S&descAlignY=58&descSize=18&descColor=000000"
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=200&section=header&text=SUMER%20MANER&fontSize=60&fontColor=000000&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20&descAlignY=58&descSize=18&descColor=000000"
        alt="header" width="100%"/>
        <!-- ↑ CHANGE: Replace YOUR%20NAME with your name (spaces = %20)
                       Replace the desc= text with your own tagline      -->
