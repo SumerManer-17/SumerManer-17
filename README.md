@@ -8,7 +8,7 @@
 
 <!-- HEADER BANNER — you can generate one at capsule-render.vercel.app -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=200&section=header&text=YOUR%20NAME&fontSize=60&fontColor=000000&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20Security%20Enthusiast&descAlignY=58&descSize=18&descColor=000000"
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=200&section=header&text=SUMER%20MANER&fontSize=60&fontColor=000000&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20Security%20Enthusiast&descAlignY=58&descSize=18&descColor=000000"
        alt="header" width="100%"/>
        <!-- ↑ CHANGE: Replace YOUR%20NAME with your name (spaces = %20)
                       Replace the desc= text with your own tagline      -->
@@ -16,7 +16,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+YOUR+NAME+%F0%9F%91%BE;Full-Stack+Developer;Security+%26+CTF+Enthusiast;Open+Source+Contributor;Always+learning%2C+always+building."
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+SUMER+MANER+%F0%9F%91%BE;Full-Stack+Developer;+%26+Machine Learning Enthsiastic;Always+learning%2C+always+building."
        alt="Typing SVG"/>
        <!-- ↑ CHANGE: Edit the lines= parameter — each + is a space, each ; starts a new line -->
 </p>
@@ -29,12 +29,11 @@
 $ cat about.txt
 ```
 
-🎓 **B.Tech CSE** @ XYZ University (2022 – 2026)  <!-- ← CHANGE: your degree & university -->
-🌍 Based in **Kolhapur, Maharashtra, India**         <!-- ← CHANGE: your city -->
-🔭 Currently building **[Your Project Name](https://github.com/yourhandle/repo)**  <!-- ← CHANGE -->
-🌱 Currently learning **Rust & Cloud Security**      <!-- ← CHANGE: what you're learning -->
-💬 Ask me about **Web Dev, CTFs, Open Source**       <!-- ← CHANGE -->
-⚡ Fun fact: **I debug with print statements. Unironically.** <!-- ← CHANGE -->
+🎓 **B.Tech CSE** @ Kolhapur Institute of Technology, Kokhapur (2023-2027)  
+🌍 Based in **Kolhapur, Maharashtra, India**        
+🔭 Currently building **[Your Project Name](https://github.com/yourhandle/repo)**  
+🌱 Currently learning **SpringBoot and Microservices**      
+💬 Ask me about **Web Dev, Machine Learning** 
 
 ---
 
@@ -45,8 +44,6 @@ $ cat about.txt
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=00ff41)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=00ff41)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=00ff41)
-![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus&logoColor=00ff41)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=00ff41)
 ![Bash](https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnubash&logoColor=00ff41)
 <!-- ↑ ADD/REMOVE badges — format: ![Name](https://img.shields.io/badge/Name-000?style=for-the-badge&logo=LOGONAME&logoColor=00ff41) -->
@@ -79,17 +76,17 @@ $ cat about.txt
 ## `> stats --verbose`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=030a03&title_color=00ff41&icon_color=00ff41&text_color=b0ffb0&ring_color=00ff41"
+  <img src="https://github-readme-stats.vercel.app/api?username=SumerManer-17&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=030a03&title_color=00ff41&icon_color=00ff41&text_color=b0ffb0&ring_color=00ff41"
        height="160" alt="GitHub Stats"/>
-  <!-- ↑ CHANGE: Replace YOURUSERNAME with your GitHub username -->
+  
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=030a03&title_color=00ff41&text_color=b0ffb0"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumerManer-17&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=030a03&title_color=00ff41&text_color=b0ffb0"
        height="160" alt="Top Langs"/>
-  <!-- ↑ CHANGE: Replace YOURUSERNAME -->
+  
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=dark&hide_border=true&background=030a03&ring=00ff41&fire=00cc33&currStreakLabel=00ff41&sideLabels=b0ffb0&dates=3a6b3a"
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SumerManer-17&theme=dark&hide_border=true&background=030a03&ring=00ff41&fire=00cc33&currStreakLabel=00ff41&sideLabels=b0ffb0&dates=3a6b3a"
        alt="GitHub Streak" width="55%"/>
   <!-- ↑ CHANGE: Replace YOURUSERNAME -->
 </p>
@@ -99,7 +96,7 @@ $ cat about.txt
 ## `> leetcode --profile`
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOURLEETCODEUSERNAME?theme=dark&font=Share%20Tech%20Mono&ext=heatmap&border=0&radius=4&bg_color=030a03&text_color=00ff41"
+  <img src="https://leetcard.jacoblin.cool/sumer17?theme=dark&font=Share%20Tech%20Mono&ext=heatmap&border=0&radius=4&bg_color=030a03&text_color=00ff41"
        alt="LeetCode Stats" width="60%"/>
   <!-- ↑ CHANGE: Replace YOURLEETCODEUSERNAME with your LeetCode username -->
 </p>
@@ -118,15 +115,7 @@ $ cat about.txt
 
 ---
 
-## `> achievements --all`
 
-```
-[✓] 1st Place  — Inter-College Hackathon 2024          (60 teams)
-[✓] Top 100    — PicoCTF 2024                          (Global)
-[✓] Published  — IEEE ICCCNT 2024 Research Paper
-[✓] 5★ Python  — HackerRank Certification
-```
-<!-- ↑ CHANGE: Update with your real achievements. Add lines with same format. -->
 
 ---
 
@@ -134,22 +123,22 @@ $ cat about.txt
 
 <p align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/YOURUSERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/SumerManer-17)
 <!-- ↑ CHANGE: your GitHub URL -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/YOURHANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/https://www.linkedin.com/in/sumer-maner-9b8661279   )
 <!-- ↑ CHANGE: your LinkedIn URL -->
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=00ff41)](https://leetcode.com/YOURUSERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=00ff41)](https://leetcode.com/https://leetcode.com/u/sumer17/)
 <!-- ↑ CHANGE: your LeetCode URL -->
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=00ff41)](https://YOURSITE.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=00ff41)](https://portfoliosumer.vercel.app/)
 <!-- ↑ CHANGE: your portfolio URL -->
 
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:you@email.com)
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:sumerinusmaner1711.com)
 <!-- ↑ CHANGE: your email -->
 
-[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=00ff41)](https://twitter.com/YOURHANDLE)
+<!--[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=00ff41)](https://twitter.com/YOURHANDLE)-->
 <!-- ↑ CHANGE: your Twitter/X URL -->
 
 </p>
@@ -157,11 +146,11 @@ $ cat about.txt
 ---
 
 <!-- VISITOR COUNTER -->
-<p align="center">
+<!--<p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&style=for-the-badge&color=00ff41&labelColor=000000&label=PROFILE+VIEWS"
        alt="Profile views"/>
-  <!-- ↑ CHANGE: Replace YOURUSERNAME -->
-</p>
+  
+</p> -->
 
 <!-- FOOTER WAVE -->
 <p align="center">
